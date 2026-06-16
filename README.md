@@ -1,6 +1,6 @@
 # Atlas RTC Driver Modification Demo
 
-本项目用于课程实验：基于 Atlas 200I DK A2 上的 Linux RTC 驱动文档，对 RTC 驱动做一个可验证的小修改，并提供开发板端测试应用。
+本项目用于课程实验：基于 Atlas 200I DK A2 上的 Linux RTC 驱动文档，对 RTC 驱动做一个可验证的小修改，并提供开发板端测试应用。。
 
 ## 实验目标
 
